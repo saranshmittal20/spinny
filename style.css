@@ -31,6 +31,8 @@ nav ul li{
 
 .brand img{
 width: 49px;
+    background-repeat: no-repeat;
+  background-size: cover
 }
 
 .brand{
